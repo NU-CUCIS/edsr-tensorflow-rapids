@@ -110,5 +110,5 @@ This material is based upon work supported by the U.S. Department of Energy,
 Office of Science, Office of Advanced Scientific Computing Research, Scientific
 Discovery through Advanced Computing (SciDAC) program. This project is a joint
 work of Northwestern University and Argonne National Laboratory supported by
-the RAPIDS Institute.
+the [RAPIDS Institute](https://rapids.lbl.gov).
 
